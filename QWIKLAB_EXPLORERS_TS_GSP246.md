@@ -177,12 +177,10 @@ FROM
 "
 ```
 
-### Congratulations 🎉 for completing the Lab !
+# Congratulations ..!!🎉  You completed the lab shortly..😃💯
 
-##### *You Have Successfully Demonstrated Your Skills And Determination.*
+# *Well done..!* 👏
 
-#### *Well done!*
+# Thank you for visiting.... :) 🗯️
 
-#### Don't Forget to Join the [Telegram Channel](https://t.me/quickgcplab) & [Discussion group](https://t.me/quickgcplabchats)
-
-# [QUICK GCP LAB](https://www.youtube.com/@quickgcplab)
+# [Qwiklab_Explorers_ts](https://youtube.com/@titashshil?si=RgamNu1dc9jVIbJN)
